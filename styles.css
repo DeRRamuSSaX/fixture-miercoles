@@ -1,0 +1,134 @@
+body {
+  font-family: "Roboto";
+}
+
+header {
+  background: rgb(210, 0, 0);
+  color: white;
+  text-align: center;
+}
+
+.match-list{
+  border: 2px solid black;
+}
+
+.grupo-tabla{
+  border: 2px solid black;
+  background: rgb(210, 50, 0);
+  border-radius: 20px;
+}
+
+.groups{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  align-items: center;
+  text-align: center;
+}
+
+section{
+  margin: 5px;
+}
+
+tr,td,th{
+  border: 1px solid black;
+  width: 80px;
+  height: 46px;
+}
+
+.jornada__1 {
+border: 5px double black;
+display: grid;
+grid-template-columns: 1fr 1fr 1fr 1fr;
+align-items: center;
+text-align: center;
+padding: 5px;
+background-color: pink;
+border-radius: 20px;
+}
+
+.grupo-a {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 5px;
+}
+
+.grupo-b {
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: center;
+padding: 5px;
+}
+
+.grupo-c {
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: center;
+padding: 5px;
+}
+
+.grupo-d {
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: center;
+padding: 5px;
+}
+
+.grupo-e {
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: center;
+padding: 5px;
+}
+
+.grupo-f {
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: center;
+padding: 5px;
+}
+
+.grupo-g {
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: center;
+padding: 5px;
+}
+
+.grupo-h {
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: center;
+padding: 5px;
+}
+
+
+.jornada__2  {
+  border: 5px double black;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  align-items: center;
+  text-align: center;
+  padding: 5px;
+  background-color: pink;
+  border-radius: 20px;
+}
+
+.jornada__3 {
+  border: 5px double black;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  align-items: center;
+  text-align: center;
+  padding: 5px;
+  background-color: pink;
+  border-radius: 20px;
+}
